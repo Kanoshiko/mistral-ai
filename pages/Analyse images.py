@@ -1,7 +1,7 @@
 from mistralai import Mistral
 import streamlit as st
 
-client = Mistral(api_key="el3j7sMe3Dq86EOj6uIjTnnVeqZKDFrq")
+client = Mistral(api_key="1lFl56MeZF5OE8jCiGeIYAz28qzcrmM2")
 
 # Titre
 st.title("Analyse une image avec Mistral AI")
